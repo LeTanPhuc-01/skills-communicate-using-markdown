@@ -14,7 +14,7 @@ public class Hello{
   }
 }
 ```
-- [x] Did not do all of these
-- [ ] Turn on GitHub Pages
-- [ ] Outline my portfolio
-- [ ] Introduce myself to the world
+- [x]  Did not do all of these
+- [ ]  Turn on GitHub Pages
+- [ ]  Outline my portfolio
+- [ ]  Introduce myself to the world
